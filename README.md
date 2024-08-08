@@ -56,5 +56,5 @@ Recommended investing in improving online travel agency platforms for a better u
 Suggested implementing a referral program where existing customers can refer friends and family in exchange for discounts or rewards.
 Proposed promoting the referral program through email marketing and social media channels.
 
-<h4>Summary:</h4>
+<h2>Summary:</h2>
 By analyzing hotel booking data, the project provided valuable insights into customer behavior and booking patterns. The actionable recommendations aimed to help hotels reduce cancellations and increase reservations by addressing key factors such as waiting times, customer preferences for short stays, and the effectiveness of online travel agencies and referral programs.
