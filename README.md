@@ -10,14 +10,14 @@ Import the hotel booking data for analysis using Pandas.
 Get familiar with the data structure and key variables by displaying the first few rows and understanding the data types of each column.
 
 <h4>Data Cleaning:</h4>
-1. Handle missing values by filling or dropping them appropriately.
-2. Correct data types, such as converting date columns to datetime objects.
-3. Identify and handle outliers to ensure data quality.
+<p>1. Handle missing values by filling or dropping them appropriately.</p>
+<p>2. Correct data types, such as converting date columns to datetime objects.</p>
+<p>3. Identify and handle outliers to ensure data quality.</p>
 
 <h4>Data Visualization:</h4>
--> Use Matplotlib and Seaborn to create charts and graphs that illustrate patterns and trends in the data.
--> Visualize the distribution of bookings across different months, days of the week, and hotel types.
--> Plot the cancellation rates and analyze factors affecting cancellations.
+<p>-> Use Matplotlib and Seaborn to create charts and graphs that illustrate patterns and trends in the data.</p>
+<p>-> Visualize the distribution of bookings across different months, days of the week, and hotel types.</p>
+<p>-> Plot the cancellation rates and analyze factors affecting cancellations.</p>
 
 <h4>Finding Insights:</h4>
 Extract meaningful insights from the visualizations and analysis.
